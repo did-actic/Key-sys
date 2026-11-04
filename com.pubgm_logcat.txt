@@ -1,0 +1,37 @@
+--------- beginning of main
+10-14 07:07:52.353 25615 27887 E com.pubgm: BBinder_init Processname  com.pubgm  
+10-14 07:07:52.353 25615 27887 E com.pubgm: BBinder_init hasGetProcessName  com.pubgm
+10-14 07:07:52.384 25615 25615 I FirebaseInitProvider: FirebaseApp initialization successful
+10-14 07:07:52.435 25615 27890 I DynamiteModule: Considering local module com.google.android.gms.measurement.dynamite:92 and remote module com.google.android.gms.measurement.dynamite:207
+10-14 07:07:52.436 25615 27890 I DynamiteModule: Selected remote version of com.google.android.gms.measurement.dynamite, version >= 207
+10-14 07:07:52.436 25615 27890 V DynamiteModule: Dynamite loader version >= 2, using loadModule2NoCrashUtils
+10-14 07:07:52.477 27760 27867 D SystemCallProvider: call: VM, Bundle[mParcelledData.dataSize=88]
+10-14 07:07:52.479 25615 25615 D TCoreCore: getService: activity_manager, android.os.BinderProxy@2f08f87
+10-14 07:07:52.481 27760 27867 D SystemCallProvider: call: VM, Bundle[mParcelledData.dataSize=76]
+10-14 07:07:52.483 25615 25615 D TCoreCore: getService: job_manager, android.os.BinderProxy@5926eb4
+10-14 07:07:52.485 27760 27867 D SystemCallProvider: call: VM, Bundle[mParcelledData.dataSize=84]
+10-14 07:07:52.486 25615 25615 D TCoreCore: getService: package_manager, android.os.BinderProxy@4c2add
+10-14 07:07:52.488 27760 27867 D SystemCallProvider: call: VM, Bundle[mParcelledData.dataSize=84]
+10-14 07:07:52.489 25615 25615 D TCoreCore: getService: storage_manager, android.os.BinderProxy@96bc652
+10-14 07:07:52.489 25615 27890 W System  : ClassLoader referenced unknown path: 
+10-14 07:07:52.491 27760 27867 D SystemCallProvider: call: VM, Bundle[mParcelledData.dataSize=80]
+10-14 07:07:52.491 25615 27890 D nativeloader: Configuring clns-8 for other apk . target_sdk_version=37, uses_libraries=, library_path=/data/app/~~uqNTuEcdFlfyuwLSi3gKsw==/com.google.android.gms-iLobJrAeHULX-EEQquMD6g==/lib/arm64:/data/app/~~uqNTuEcdFlfyuwLSi3gKsw==/com.google.android.gms-iLobJrAeHULX-EEQquMD6g==/base.apk!/lib/arm64-v8a, permitted_path=/data:/mnt/expand:/data/user/0/com.google.android.gms
+10-14 07:07:52.492 25615 25615 D TCoreCore: getService: user_manager, android.os.BinderProxy@ebc9d23
+10-14 07:07:52.499 27760 27867 D SystemCallProvider: call: VM, Bundle[mParcelledData.dataSize=84]
+10-14 07:07:52.500 25615 25615 D TCoreCore: getService: xposed_manager, android.os.BinderProxy@be597d9
+10-14 07:07:52.503 27760 27867 D SystemCallProvider: call: VM, Bundle[mParcelledData.dataSize=84]
+10-14 07:07:52.504 25615 25615 D TCoreCore: getService: account_manager, android.os.BinderProxy@fdbf59e
+10-14 07:07:52.506 27760 27867 D SystemCallProvider: call: VM, Bundle[mParcelledData.dataSize=88]
+10-14 07:07:52.507 25615 25615 D TCoreCore: getService: location_manager, android.os.BinderProxy@bb1e87f
+10-14 07:07:52.509 27760 27867 D SystemCallProvider: call: VM, Bundle[mParcelledData.dataSize=96]
+10-14 07:07:52.510 25615 25615 D TCoreCore: getService: notification_manager, android.os.BinderProxy@d0e04c
+10-14 07:07:52.510 25615 25615 I TCoreCompat: doCreate completed
+10-14 07:07:52.577 25615 25615 D AppCompatDelegate: Checking for metadata for AppLocalesMetadataHolderService : Service not found
+10-14 07:07:52.579 25615 27905 E HWUI    : Device claims wide gamut support, cannot find matching config, error = EGL_SUCCESS
+10-14 07:07:52.580 25615 27905 W HWUI    : Failed to initialize 101010-2 format, error = EGL_SUCCESS
+10-14 07:07:52.686 25615 27897 E FeatureFlagsImplExport: android.os.flagging.AconfigStorageReadException: ERROR_PACKAGE_NOT_FOUND: package com.android.libcore cannot be found on the device
+10-14 07:07:52.735 25615 27923 E com.pubgm: No package ID 6b found for resource ID 0x6b0b0013.
+10-14 07:07:52.738 25615 27923 I FA      : App measurement initialized, version: 183005
+10-14 07:07:52.738 25615 27923 I FA      : To enable debug logging run: adb shell setprop log.tag.FA VERBOSE
+10-14 07:07:52.739 25615 27923 I FA      : To enable faster debug mode event logging run:
+10-14 07:07:52.739 25615 27923 I FA      :   adb shell setprop debug.firebase
